@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Deezio
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning CSE as a student
-- 💞️ I’m looking to collaborate on web development,ai,etc
+- 🌱 I’m a Spring boot developer.
+- 💞️ I’m looking to collaborate on web development,etc
 - 📫 How to reach me ...
 
 <!---
